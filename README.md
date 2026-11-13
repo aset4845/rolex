@@ -67,7 +67,7 @@ rolex/
 
 ## Сборка настольной версии
 
-Проект можно упаковать в автономное Windows-приложение (PHP Desktop + встроенный MySQL). Подробности — в [BUILD_INSTRUCTIONS.md](BUILD_INSTRUCTIONS.md), [PHPDESKTOP_PACKAGING.md](PHPDESKTOP_PACKAGING.md) и [STANDALONE_MYSQL.md](STANDALONE_MYSQL.md). Скрипты сборки: `build-*.ps1`, `build-*.bat`, `installer-script.iss`.
+Проект можно упаковать в автономное Windows-приложение (PHP Desktop + встроенный MySQL). Подробности — в [BUILD_INSTRUCTIONS.md](BUILD_INSTRUCTIONS.md), [PHPDESKTOP_PACKAGING.md](PHPDESKTOP_PACKAGING.md) и [STANDALONE_MYSQL.md](STANDALONE_MYSQL.md). Скрипты сборки: `build-standalone.ps1`, `build-*.bat`, `installer-script.iss`.
 
 ## Автор
 
