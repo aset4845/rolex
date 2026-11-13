@@ -25,7 +25,7 @@
 - PHP 7.0+ (PDO, mbstring, GD, JSON)
 - MySQL / MariaDB
 - HTML, CSS, JavaScript
-- Apache (XAMPP) или упаковка в настольное приложение через PHP Desktop
+- Apache (XAMPP)
 
 ## Структура проекта
 
@@ -64,10 +64,6 @@ rolex/
 Вместо шагов 3–4 можно воспользоваться мастером установки: <http://localhost/rolex/install.php>.
 
 > ⚠️ По умолчанию используется пользователь MySQL `root` без пароля — это подходит только для локальной разработки. В продакшене задайте отдельного пользователя и пароль.
-
-## Сборка настольной версии
-
-Проект можно упаковать в автономное Windows-приложение (PHP Desktop + встроенный MySQL). Подробности — в [BUILD_INSTRUCTIONS.md](BUILD_INSTRUCTIONS.md), [PHPDESKTOP_PACKAGING.md](PHPDESKTOP_PACKAGING.md) и [STANDALONE_MYSQL.md](STANDALONE_MYSQL.md). Скрипты сборки: `build-standalone.ps1`, `build-*.bat`, `installer-script.iss`.
 
 ## Автор
 
