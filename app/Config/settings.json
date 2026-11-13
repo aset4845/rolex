@@ -1,0 +1,10 @@
+{
+    "site_name": "Rolex ЖШС",
+    "site_phone": "+7 (727) 770-77-77",
+    "site_email": "info@rolex.kz",
+    "site_address": "Қарағанды қ., Аманжолова к., 15",
+    "free_delivery_from": 500000,
+    "currency": "₸",
+    "products_per_page": 40,
+    "enable_registration": true
+}

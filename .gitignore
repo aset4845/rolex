@@ -1,0 +1,14 @@
+# IDE / tooling
+.claude/
+.vscode/
+.idea/
+
+# Установка и логи
+install.lock
+*.log
+
+# Загруженные пользователями файлы и резервные копии
+uploads/products/*
+public/uploads/*
+backups/*.sql
+!**/.gitkeep
